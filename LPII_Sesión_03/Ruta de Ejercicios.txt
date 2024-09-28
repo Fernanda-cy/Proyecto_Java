@@ -1,0 +1,15 @@
+*-- Ejercicio 1: LPII_Sesion03_ENUM --*
+
+Enum y Entidad
+1. Crear la tabla producto en MySQL dbventas
+2. Realizar la creación de un enum y la entidad Producto
+
+*-- Ejercicio 2: LPII_Sesion03_PERS --*
+
+JPA y el problema con las librerías de persistencia y jdk en Eclipse
+1. Crear proyecto Java normal y agregar librería de usuario EclipseLink2.7.17 agregándole los jar externos
+2. Establecer la conexión a la BD Académico
+3. Agregar los jar restantes jakarta y conector
+4. Completar el ejercicio con la entidades y la clase Principal
+
+

@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+D:\LanSchoolFiles\LPII_Sesión_03\.metadata\.plugins\org.eclipse.jdt.core
+3709822614.index
+3921559773.index
+3809539308.index
+1076572010.index
+929211189.index
+4124409746.index
+2872116939.index
+1865797976.index
